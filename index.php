@@ -8,6 +8,10 @@
 </head>
 <body>
     <p>menambah paragraph</p>
+    <ul>
+        <li>1</li>
+        <li>2</li>
+    </ul>
     
 </body>
 </html>
